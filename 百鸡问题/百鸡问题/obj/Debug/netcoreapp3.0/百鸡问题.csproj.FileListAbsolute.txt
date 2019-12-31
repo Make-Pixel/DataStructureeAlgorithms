@@ -1,0 +1,11 @@
+/Users/xiantianguang/Desktop/百鸡问题/百鸡问题/bin/Debug/netcoreapp3.0/百鸡问题
+/Users/xiantianguang/Desktop/百鸡问题/百鸡问题/bin/Debug/netcoreapp3.0/百鸡问题.deps.json
+/Users/xiantianguang/Desktop/百鸡问题/百鸡问题/bin/Debug/netcoreapp3.0/百鸡问题.runtimeconfig.json
+/Users/xiantianguang/Desktop/百鸡问题/百鸡问题/bin/Debug/netcoreapp3.0/百鸡问题.runtimeconfig.dev.json
+/Users/xiantianguang/Desktop/百鸡问题/百鸡问题/bin/Debug/netcoreapp3.0/百鸡问题.dll
+/Users/xiantianguang/Desktop/百鸡问题/百鸡问题/bin/Debug/netcoreapp3.0/百鸡问题.pdb
+/Users/xiantianguang/Desktop/百鸡问题/百鸡问题/obj/Debug/netcoreapp3.0/百鸡问题.csprojAssemblyReference.cache
+/Users/xiantianguang/Desktop/百鸡问题/百鸡问题/obj/Debug/netcoreapp3.0/百鸡问题.AssemblyInfoInputs.cache
+/Users/xiantianguang/Desktop/百鸡问题/百鸡问题/obj/Debug/netcoreapp3.0/百鸡问题.AssemblyInfo.cs
+/Users/xiantianguang/Desktop/百鸡问题/百鸡问题/obj/Debug/netcoreapp3.0/百鸡问题.dll
+/Users/xiantianguang/Desktop/百鸡问题/百鸡问题/obj/Debug/netcoreapp3.0/百鸡问题.pdb
