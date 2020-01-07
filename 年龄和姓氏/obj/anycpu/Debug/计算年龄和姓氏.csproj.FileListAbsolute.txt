@@ -1,0 +1,5 @@
+/Users/weixupeng/Desktop/众生平等/年龄和姓氏算法/bin/Debug/计算年龄和姓氏.exe
+/Users/weixupeng/Desktop/众生平等/年龄和姓氏算法/bin/Debug/计算年龄和姓氏.pdb
+/Users/weixupeng/Desktop/众生平等/年龄和姓氏算法/obj/anycpu/Debug/计算年龄和姓氏.csprojAssemblyReference.cache
+/Users/weixupeng/Desktop/众生平等/年龄和姓氏算法/obj/anycpu/Debug/计算年龄和姓氏.exe
+/Users/weixupeng/Desktop/众生平等/年龄和姓氏算法/obj/anycpu/Debug/计算年龄和姓氏.pdb
